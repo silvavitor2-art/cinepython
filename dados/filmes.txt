@@ -1,0 +1,4 @@
+Homem-Aranha|14:00,16:30,19:00
+Toy Story|13:00,15:00,17:00
+Vingadores|18:00,20:30
+Interestelar|16:00,19:30

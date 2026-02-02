@@ -1,0 +1,4 @@
+Pix
+Cartão de Crédito
+Cartão de Débito
+Dinheiro
